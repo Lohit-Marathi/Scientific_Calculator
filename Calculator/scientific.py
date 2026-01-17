@@ -5,7 +5,7 @@ Defines scientific and advanced arithmetic operations.
 """
 import math
 
-class ScientificCalculator:
+class ScientificOperations:
     """Encapsulates scientific arithmetic operations."""
 
     def power(self, base: float, exponent: float) -> float:

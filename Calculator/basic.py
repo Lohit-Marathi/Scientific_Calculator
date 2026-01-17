@@ -5,7 +5,7 @@ Defines basic arithmetic operations.
 This module contains no input/output logic.
 """
 
-class BasicCalculator:
+class BasicOperations:
     """Encapsulates basic arithmetic operations."""
 
     def add(self, a: float, b: float) -> float:
