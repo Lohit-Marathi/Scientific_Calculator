@@ -4,7 +4,7 @@ main.py
 Entry point for the Scientific Calculator application.
 """
 
-from Cli.menu import CalculatorCLI
+from cli.menu import CalculatorCLI
 
 
 def main() -> None:

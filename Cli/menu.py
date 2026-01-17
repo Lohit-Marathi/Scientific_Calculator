@@ -4,12 +4,12 @@ menu.py
 Command line interface for the Scientific Calculator.
 """
 
-from Calculator import calculator
+from calculator import Calculator
 
 class CalculatorCLI:
     """handles command line interaction for the calculator."""
     def __init__(self) -> None:
-        self.calculator = calculator()
+        self.calculator = Calculator()
 
 
     

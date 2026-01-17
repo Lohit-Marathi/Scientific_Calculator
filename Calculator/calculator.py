@@ -4,8 +4,8 @@ calculator.py
 defines the calculator engine which composes all operations.
 """
 
-from Calculator.basic import BasicOperations
-from Calculator.scientific import ScientificOperations
+from calculator.basic import BasicOperations
+from calculator.scientific import ScientificOperations
 from typing import List,Tuple
 
 class Calculator:
