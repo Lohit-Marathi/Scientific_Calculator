@@ -42,5 +42,3 @@ class BasicOperations:
         """Returns the percentage of a value."""
         return (value * percent) / 100
 
-a = BasicCalculator()
-print(a.add(5,3))
