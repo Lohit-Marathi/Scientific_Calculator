@@ -41,3 +41,6 @@ class BasicCalculator:
     def percentage(self, value: float, percent: float) -> float:
         """Returns the percentage of a value."""
         return (value * percent) / 100
+
+a = BasicCalculator()
+print(a.add(5,3))
